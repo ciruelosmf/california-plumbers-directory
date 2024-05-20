@@ -6,7 +6,7 @@ const inter = Inter({ subsets: ["latin"] });
 export const metadata = {
   title: "California Plumbers Directory",
   description: "Discover California Plumbers  ",
-  verification: { google: "v9-hf_re9pvJk49yojVNtGblQIvZPjuRT7bIE4so71U" },
+  verification: { google: "0XgXg5w0Qv0SylqCwLitaK87Qm3X-r2qdXj6kzq_FJo" },
 };
 
 export default function RootLayout({ children }) {
