@@ -73,7 +73,7 @@ export default () => {
       <section className="mt-4 mx-auto px-1 max-w-screen-xl md:px-8">
 
         <h1 className="    md:text-6xl text-3xl text-slate-900 mb-2">
-     El Camino del Cannabis en San Luis
+        California Plumbers Directory
      </h1>
  
  

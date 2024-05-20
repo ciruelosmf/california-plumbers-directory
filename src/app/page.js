@@ -17,8 +17,7 @@ export default function Home() {
  
 
 
-    <main className="flex  pattern-isometric pattern-blue-100 pattern-bg-white 
-    pattern-size-20 pattern-opacity-100 min-h-screen flex-col items-center justify-between p-4">
+    <main className="flex  bg-blue-50  min-h-screen flex-col items-center justify-between p-4">
 
 
 
@@ -46,7 +45,7 @@ export default function Home() {
 
 
       <Head>
-        <title>El Camino del Cannabis en San Luis</title>
+        <title>California Plumbers Directory</title>
       </Head>
 
 
@@ -65,7 +64,7 @@ export default function Home() {
 
   <div className="text-slate-100 px-7 font-bold py-4">
   <div>
-            <button onClick={() => window.alert('escribir email a : caminodelcannabissanluis@gmail.com')}>¿Querés agregar tu proyecto?   </button>
+            <button onClick={() => window.alert('escribir email a : califoniaplumbersdirectory@gmail.com')}>¿Do you want to add your business?   </button>
         </div>
     
   </div>
